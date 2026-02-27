@@ -1,2 +1,2 @@
 # my-awesome-project
-Ce sera ici mon test du premier pushpull via ssh
+This awesome project is created to experiment git notions like clone, push and pull
